@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: c33a1ace262864ae7b5f71d8a9229164
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6876527730191647916
+    second: male front view 1_0
+  - first:
+      213: -4711626177291014146
+    second: male front view 1_1
+  - first:
+      213: 1958504952085414552
+    second: male front view 1_2
+  - first:
+      213: 3073044203873408584
+    second: male front view 1_3
+  - first:
+      213: -8552364630871102035
+    second: male front view 1_4
+  - first:
+      213: 8431697111568872854
+    second: male front view 1_5
+  - first:
+      213: -7112605291270855725
+    second: male front view 1_6
+  - first:
+      213: -6842325081198477933
+    second: male front view 1_7
+  - first:
+      213: -2456773763063424282
+    second: male front view 1_8
+  - first:
+      213: -5111809865607813332
+    second: male front view 1_9
+  - first:
+      213: -3852776062831157627
+    second: male front view 1_10
+  - first:
+      213: 3234002804364040850
+    second: male front view 1_11
+  - first:
+      213: -6120531945593465128
+    second: male front view 1_12
+  - first:
+      213: 8774781664174600727
+    second: male front view 1_13
+  - first:
+      213: -190743625605743604
+    second: male front view 1_14
+  - first:
+      213: -205263067516785678
+    second: male front view 1_15
+  - first:
+      213: 2246731010266342499
+    second: male front view 1_16
+  - first:
+      213: -6450938042241325113
+    second: male front view 1_17
+  - first:
+      213: -401479409729625620
+    second: male front view 1_18
+  - first:
+      213: 2602314367946800237
+    second: male front view 1_19
+  - first:
+      213: 2044284049430995518
+    second: male front view 1_20
+  - first:
+      213: -6731161813251320422
+    second: male front view 1_21
+  - first:
+      213: -7625021923862308928
+    second: male front view 1_22
+  - first:
+      213: -4851554075014632488
+    second: male front view 1_23
+  - first:
+      213: 7593955093032972702
+    second: male front view 1_24
+  - first:
+      213: -4860411439505621218
+    second: male front view 1_25
+  - first:
+      213: 3671099154410892426
+    second: male front view 1_26
+  - first:
+      213: 8253629244940127677
+    second: male front view 1_27
+  - first:
+      213: 7589260413233354501
+    second: male front view 1_28
+  - first:
+      213: 8731720555968366859
+    second: male front view 1_29
+  - first:
+      213: -4372794752321017905
+    second: male front view 1_30
+  - first:
+      213: -8801080832284256768
+    second: male front view 1_31
+  - first:
+      213: 6331442250985526940
+    second: male front view 1_32
+  - first:
+      213: 4166606313045225077
+    second: male front view 1_33
+  - first:
+      213: -3128275842092634719
+    second: male front view 1_34
+  - first:
+      213: 2980807741066758907
+    second: male front view 1_35
+  - first:
+      213: 3670942602604395282
+    second: male front view 1_36
+  - first:
+      213: -5270543109401045050
+    second: male front view 1_37
+  - first:
+      213: -2926768799905917173
+    second: male front view 1_38
+  - first:
+      213: -2531304182068541427
+    second: male front view 1_39
+  - first:
+      213: 2965282580058374485
+    second: male front view 1_40
+  - first:
+      213: 8068443795808066886
+    second: male front view 1_41
+  - first:
+      213: -1662764280114563892
+    second: male front view 1_42
+  - first:
+      213: 1072885287108633100
+    second: male front view 1_43
+  - first:
+      213: 2837547159620803869
+    second: male front view 1_44
+  - first:
+      213: -1902001196639557668
+    second: male front view 1_45
+  - first:
+      213: 7337775636857108241
+    second: male front view 1_46
+  - first:
+      213: -2375623610215615545
+    second: male front view 1_47
+  - first:
+      213: 392771046277163808
+    second: male front view 1_48
+  - first:
+      213: 3948960667086109932
+    second: male front view 1_49
+  - first:
+      213: -5060987045165459883
+    second: male front view 1_50
+  - first:
+      213: -6211720110414722925
+    second: male front view 1_51
+  - first:
+      213: 6909392071796657997
+    second: male front view 1_52
+  - first:
+      213: 7341396961519622407
+    second: male front view 1_53
+  - first:
+      213: -4124235526645265482
+    second: male front view 1_54
+  - first:
+      213: -8038001233551204773
+    second: male front view 1_55
+  - first:
+      213: -3852437323074979603
+    second: male front view 1_56
+  - first:
+      213: 4019569077790655213
+    second: male front view 1_57
+  - first:
+      213: -2709554727428634685
+    second: male front view 1_58
+  - first:
+      213: -4742594091388440624
+    second: male front view 1_59
+  - first:
+      213: -2437826286869231447
+    second: male front view 1_60
+  - first:
+      213: -5563396055929754744
+    second: male front view 1_61
+  - first:
+      213: 7541553909267729335
+    second: male front view 1_62
+  - first:
+      213: -955007374667897084
+    second: male front view 1_63
+  - first:
+      213: -8679467566968677938
+    second: male front view 1_64
+  - first:
+      213: 6771558067981565183
+    second: male front view 1_65
+  - first:
+      213: 4929361779961114892
+    second: male front view 1_66
+  - first:
+      213: 7814003075870788643
+    second: male front view 1_67
+  - first:
+      213: 3967484564127618326
+    second: male front view 1_68
+  - first:
+      213: -2138769359576677164
+    second: male front view 1_69
+  - first:
+      213: -7345389077960153813
+    second: male front view 1_70
+  - first:
+      213: -5484642762946603722
+    second: male front view 1_71
+  - first:
+      213: -5660916756440593233
+    second: male front view 1_72
+  - first:
+      213: -6237130984015481189
+    second: male front view 1_73
+  - first:
+      213: 3696255002329777613
+    second: male front view 1_74
+  - first:
+      213: -3224256630328013499
+    second: male front view 1_75
+  - first:
+      213: 2109693376595262264
+    second: male front view 1_76
+  - first:
+      213: 9027642324823577165
+    second: male front view 1_77
+  - first:
+      213: -5819536789047712452
+    second: male front view 1_78
+  - first:
+      213: 427256616870049499
+    second: male front view 1_79
+  - first:
+      213: -4364343530465122247
+    second: male front view 1_80
+  - first:
+      213: -8305396830913600027
+    second: male front view 1_81
+  - first:
+      213: -1338823992330339923
+    second: male front view 1_82
+  - first:
+      213: -6479757556956566748
+    second: male front view 1_83
+  - first:
+      213: -4797106828088154934
+    second: male front view 1_84
+  - first:
+      213: 1141265938072973925
+    second: male front view 1_85
+  - first:
+      213: 3555511966099526485
+    second: male front view 1_86
+  - first:
+      213: -8200453041694040076
+    second: male front view 1_87
+  - first:
+      213: 9199181061209268708
+    second: male front view 1_88
+  - first:
+      213: -26414993596846269
+    second: male front view 1_89
+  - first:
+      213: 8635732626123838833
+    second: male front view 1_90
+  - first:
+      213: 1800355284776105637
+    second: male front view 1_91
+  - first:
+      213: -3058868320689494353
+    second: male front view 1_92
+  - first:
+      213: -7405866839952215957
+    second: male front view 1_93
+  - first:
+      213: -7480646319911357912
+    second: male front view 1_94
+  - first:
+      213: -2826291687761735436
+    second: male front view 1_95
+  - first:
+      213: 5360455589547784254
+    second: male front view 1_96
+  - first:
+      213: 886373746693698259
+    second: male front view 1_97
+  - first:
+      213: -299829818302898270
+    second: male front view 1_98
+  - first:
+      213: -1857715659630345898
+    second: male front view 1_99
+  - first:
+      213: -4332127305234957561
+    second: male front view 1_100
+  - first:
+      213: -8879067600198789497
+    second: male front view 1_101
+  - first:
+      213: -4073814020793477621
+    second: male front view 1_102
+  - first:
+      213: -3749408583304538825
+    second: male front view 1_103
+  - first:
+      213: 5499002925277581210
+    second: male front view 1_104
+  - first:
+      213: -9080287241341017771
+    second: male front view 1_105
+  - first:
+      213: -3328498742304189036
+    second: male front view 1_106
+  - first:
+      213: 4770209746527502610
+    second: male front view 1_107
+  - first:
+      213: -6773089902947481504
+    second: male front view 1_108
+  - first:
+      213: 8106803499088774161
+    second: male front view 1_109
+  - first:
+      213: 8767623430200839825
+    second: male front view 1_110
+  - first:
+      213: -106293796396975599
+    second: male front view 1_111
+  - first:
+      213: -4191531469102021475
+    second: male front view 1_112
+  - first:
+      213: -1078438908856305689
+    second: male front view 1_113
+  - first:
+      213: 5016497926079326869
+    second: male front view 1_114
+  - first:
+      213: -6589428764910717621
+    second: male front view 1_115
+  - first:
+      213: 3631791255030847195
+    second: male front view 1_116
+  - first:
+      213: -5510630160757717693
+    second: male front view 1_117
+  - first:
+      213: -8383684924019015173
+    second: male front view 1_118
+  - first:
+      213: 4352939070994681347
+    second: male front view 1_119
+  - first:
+      213: -523149807640986933
+    second: male front view 1_120
+  - first:
+      213: 3580772302689112616
+    second: male front view 1_121
+  - first:
+      213: -5319590148212218563
+    second: male front view 1_122
+  - first:
+      213: 4560992635769434127
+    second: male front view 1_123
+  - first:
+      213: -8828483769533650982
+    second: male front view 1_124
+  - first:
+      213: -5699469141144256744
+    second: male front view 1_125
+  - first:
+      213: -22641590092455089
+    second: male front view 1_126
+  - first:
+      213: 3992440368170417980
+    second: male front view 1_127
+  - first:
+      213: 1731773448405085283
+    second: male front view 1_128
+  - first:
+      213: -7280976005748489557
+    second: male front view 1_129
+  - first:
+      213: 7062251813900687096
+    second: male front view 1_130
+  - first:
+      213: -6454601980604986021
+    second: male front view 1_131
+  - first:
+      213: -92980439153950859
+    second: male front view 1_132
+  - first:
+      213: -41046239430356197
+    second: male front view 1_133
+  - first:
+      213: -5941341602895725714
+    second: male front view 1_134
+  - first:
+      213: -5307999742498002796
+    second: male front view 1_135
+  - first:
+      213: -3680727958203008579
+    second: male front view 1_136
+  - first:
+      213: 805382888569734945
+    second: male front view 1_137
+  - first:
+      213: 1555824348451558650
+    second: male front view 1_138
+  - first:
+      213: 7505898498403335501
+    second: male front view 1_139
+  - first:
+      213: -8072229057295432768
+    second: male front view 1_140
+  - first:
+      213: 5969597760140656638
+    second: male front view 1_141
+  - first:
+      213: 5185149977189164218
+    second: male front view 1_142
+  - first:
+      213: -8589631589583235504
+    second: male front view 1_143
+  - first:
+      213: -4245657356243704723
+    second: male front view 1_144
+  - first:
+      213: 4751697302881641494
+    second: male front view 1_145
+  - first:
+      213: -2865287942173399036
+    second: male front view 1_146
+  - first:
+      213: -8031311272339034645
+    second: male front view 1_147
+  - first:
+      213: 7005106659402095875
+    second: male front view 1_148
+  - first:
+      213: -2591071523222131831
+    second: male front view 1_149
+  - first:
+      213: 7045024155684661764
+    second: male front view 1_150
+  - first:
+      213: -4052779276450532756
+    second: male front view 1_151
+  - first:
+      213: 6474294047856589993
+    second: male front view 1_152
+  - first:
+      213: 8123758829974203884
+    second: male front view 1_153
+  - first:
+      213: 3225319241429964972
+    second: male front view 1_154
+  - first:
+      213: -6967170550646792842
+    second: male front view 1_155
+  - first:
+      213: 6757431020345399697
+    second: male front view 1_156
+  - first:
+      213: 2713395537994486548
+    second: male front view 1_157
+  - first:
+      213: -4922742145235337850
+    second: male front view 1_158
+  - first:
+      213: 1171770258082027474
+    second: male front view 1_159
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: male front view 1_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 616
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7d1d93ddc9efb4db20dedeb42d2391
+      internalID: 6876527730191647916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male front view 1_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 620
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4236b168c97e1419bc019eb71cf45a
+      internalID: -4711626177291014146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male front view 1_2
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 618
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f5e72de6f3cc64590e112eeaf67a07
+      internalID: 1958504952085414552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male front view 1_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 364
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec3771b668ef6442937ea04129de8f0
+      internalID: 3073044203873408584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male front view 1_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 360
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0debc471e1ff44396fce5301eb3b46
+      internalID: -8552364630871102035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male front view 1_5
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 364
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd126e26c00ff674eb277dd43c8b19ec
+      internalID: 8431697111568872854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male front view 1_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 106
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79510cf942a75934f9754fc645c572ef
+      internalID: -7112605291270855725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male front view 1_7
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75686fb9fe34b9499e80b0462023bcf
+      internalID: -6842325081198477933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male front view 1_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 104
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a9fda8a4cad6846986717bb7352571
+      internalID: -2456773763063424282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 340f92fe3752a4263b6cc81292a48048
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

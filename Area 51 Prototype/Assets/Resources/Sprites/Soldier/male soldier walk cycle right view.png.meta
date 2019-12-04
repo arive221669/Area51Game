@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 7d1cb4fe13b8045a086418fbe3c6025d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5655553520262971045
+    second: male soldier walk cycle right view_0
+  - first:
+      213: -1061880589459351041
+    second: male soldier walk cycle right view_1
+  - first:
+      213: -797125603369222976
+    second: male soldier walk cycle right view_2
+  - first:
+      213: -1504517451012145462
+    second: male soldier walk cycle right view_3
+  - first:
+      213: -9051945282571714963
+    second: male soldier walk cycle right view_4
+  - first:
+      213: -4092536436324766132
+    second: male soldier walk cycle right view_5
+  - first:
+      213: -6683953959970776222
+    second: male soldier walk cycle right view_6
+  - first:
+      213: 3685153795304812373
+    second: male soldier walk cycle right view_7
+  - first:
+      213: 9043501526426568575
+    second: male soldier walk cycle right view_8
+  - first:
+      213: -1050049649277892843
+    second: male soldier walk cycle right view_9
+  - first:
+      213: -4089310019095756324
+    second: male soldier walk cycle right view_10
+  - first:
+      213: 7676183279240486520
+    second: male soldier walk cycle right view_11
+  - first:
+      213: -1488879464207820958
+    second: male soldier walk cycle right view_12
+  - first:
+      213: 7034153409279152555
+    second: male soldier walk cycle right view_13
+  - first:
+      213: -8267041185238059779
+    second: male soldier walk cycle right view_14
+  - first:
+      213: -4342837643114605785
+    second: male soldier walk cycle right view_15
+  - first:
+      213: -1893510278786778617
+    second: male soldier walk cycle right view_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1112
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8852658b115e14face711a7b8b5e94
+      internalID: -5655553520262971045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1112
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbc8868da7dbf647accb446dd61cdec
+      internalID: -1061880589459351041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1110
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb85c9f6dd99464a9e53b8d65b222e0
+      internalID: -797125603369222976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_3
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1110
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dd0cb67bd75ea41b2e575c5665cea5
+      internalID: -1504517451012145462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 860
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3adf6a56e892e7479734be07e632d70
+      internalID: -9051945282571714963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 860
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec3fe901149b3b4a84a601fbc2e676b
+      internalID: -4092536436324766132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_6
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 856
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cba5f3319b430d44b3feb1eb8df2dd9
+      internalID: -6683953959970776222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_7
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 856
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2244a9f5c7165741b2c7bc3c299be39
+      internalID: 3685153795304812373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 600
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b21a4bf226a3ac4590c3d4b72c60ed4
+      internalID: 9043501526426568575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 600
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69cf2b8d8020a440b31f61b624f2c60
+      internalID: -1050049649277892843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_10
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 598
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402468654ae9d5540ad46ecc5eb0b884
+      internalID: -4089310019095756324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_11
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 598
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921baf008d2f6294eaa78aecac7c3c90
+      internalID: 7676183279240486520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 348
+        width: 38
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd15b97489b6149aea3453de832103
+      internalID: -1488879464207820958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 348
+        width: 38
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2832cf9deecf8eb4f83eeb7dd60d4ede
+      internalID: 7034153409279152555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_14
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 344
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385c244929b5978469a0fc5d584268a6
+      internalID: -8267041185238059779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_15
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 344
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286cb8a81a66d4a41b861ef5cede8961
+      internalID: -4342837643114605785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier walk cycle right view_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 88
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c375c508bc137d4bb52acd3f10d9a27
+      internalID: -1893510278786778617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a396a70abf88b43ac97b9c400cde404d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

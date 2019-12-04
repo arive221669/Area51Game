@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 28cfcce4aeb904f588ec05ea8db61696
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1977909275080126864
+    second: male back view walk cycle_0
+  - first:
+      213: 4448873484362769560
+    second: male back view walk cycle_1
+  - first:
+      213: -8817559402734827711
+    second: male back view walk cycle_2
+  - first:
+      213: -5075852111451968544
+    second: male back view walk cycle_3
+  - first:
+      213: -5060322592814040904
+    second: male back view walk cycle_4
+  - first:
+      213: 2955258748110900499
+    second: male back view walk cycle_5
+  - first:
+      213: 1682118809046204284
+    second: male back view walk cycle_6
+  - first:
+      213: 4505711080204260338
+    second: male back view walk cycle_7
+  - first:
+      213: 1751575463095668673
+    second: male back view walk cycle_8
+  - first:
+      213: 698849566295567680
+    second: male back view walk cycle_9
+  - first:
+      213: -3317735363704320705
+    second: male back view walk cycle_10
+  - first:
+      213: -8423379751846476214
+    second: male back view walk cycle_11
+  - first:
+      213: -3468110631029812025
+    second: male back view walk cycle_12
+  - first:
+      213: -1209352017457193199
+    second: male back view walk cycle_13
+  - first:
+      213: 6755268223261080187
+    second: male back view walk cycle_14
+  - first:
+      213: 7290401810368566918
+    second: male back view walk cycle_15
+  - first:
+      213: 2375290538718801468
+    second: male back view walk cycle_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: male back view walk cycle_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1108
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c4bd6569bb9384881ab71eb4e442a5
+      internalID: 1977909275080126864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1108
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c5737334a51f94bbfc03392b0ad628
+      internalID: 4448873484362769560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_2
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1112
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c613353e36444bb549a6706c6624e
+      internalID: -8817559402734827711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1112
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897f93d54f8dc724393b29719cedd639
+      internalID: -5075852111451968544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 856
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688cd6f7a24e6f04190a560018590e35
+      internalID: -5060322592814040904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 856
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eee6477d31e934c80871766911b8bf
+      internalID: 2955258748110900499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_6
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 856
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1524981c0625254fb72070f0db5681a
+      internalID: 1682118809046204284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_7
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 856
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c56b63434c408499ab2cd20362d217
+      internalID: 4505711080204260338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 596
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7742fe66641ba9e40a63759d50207d51
+      internalID: 1751575463095668673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 596
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5b744266782d34f8a1e6f513296e32
+      internalID: 698849566295567680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 600
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d0fe75772711a42bdf3d5dc6b616f3
+      internalID: -3317735363704320705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_11
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 600
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be422a2b752f2cb4bb8867f543927cbf
+      internalID: -8423379751846476214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 344
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbb3a34287fc7349810c4776674fb6e
+      internalID: -3468110631029812025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 344
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337206a7c02c92e47a70ab491ce0cd32
+      internalID: -1209352017457193199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 344
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b163c55828c164aae19ff1d3fad85a
+      internalID: 6755268223261080187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_15
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 344
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7683cf90b956aa84aa38b4ee59634aac
+      internalID: 7290401810368566918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male back view walk cycle_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 84
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed85cf5115704cb409eecb90868e0a79
+      internalID: 2375290538718801468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a6b32e50edc2044db9f1ae91ff016620
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

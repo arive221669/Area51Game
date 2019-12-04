@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 311c0be4fe9f5404d97bf8963536ef17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2030188926295871347
+    second: male soldier left view walk cycle_0
+  - first:
+      213: 2437761876071364877
+    second: male soldier left view walk cycle_1
+  - first:
+      213: -5324411751348595729
+    second: male soldier left view walk cycle_2
+  - first:
+      213: -5702082280832440742
+    second: male soldier left view walk cycle_3
+  - first:
+      213: -7988436415888540656
+    second: male soldier left view walk cycle_4
+  - first:
+      213: 1709907206173168828
+    second: male soldier left view walk cycle_5
+  - first:
+      213: 7109148124394792392
+    second: male soldier left view walk cycle_6
+  - first:
+      213: 4871841576352723822
+    second: male soldier left view walk cycle_7
+  - first:
+      213: -1456606613950693480
+    second: male soldier left view walk cycle_8
+  - first:
+      213: -1151419047957462858
+    second: male soldier left view walk cycle_9
+  - first:
+      213: -8502076613155361978
+    second: male soldier left view walk cycle_10
+  - first:
+      213: -7718320291167396508
+    second: male soldier left view walk cycle_11
+  - first:
+      213: -4315843302001833925
+    second: male soldier left view walk cycle_12
+  - first:
+      213: -3347795064037228201
+    second: male soldier left view walk cycle_13
+  - first:
+      213: 380333316961591380
+    second: male soldier left view walk cycle_14
+  - first:
+      213: -9074246096318712505
+    second: male soldier left view walk cycle_15
+  - first:
+      213: 2721427221374751446
+    second: male soldier left view walk cycle_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1112
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28154942f55c4754db9780f08f9189b3
+      internalID: -2030188926295871347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1112
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20e34c3924e49a4bbe61a3591755609
+      internalID: 2437761876071364877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_2
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1110
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256f6ec04eb20b648816a6fdb43a9a2a
+      internalID: -5324411751348595729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1110
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b6a855514319041a59160a5680437a
+      internalID: -5702082280832440742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 860
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7c5f06e16ae664bbb3b7d650575d2b
+      internalID: -7988436415888540656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 860
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0795ba7cc061b5f41b47d5dd8b7508b6
+      internalID: 1709907206173168828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_6
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 856
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6439a05ef13d2194c8f221386d1f2313
+      internalID: 7109148124394792392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_7
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 856
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a88684797a1df745a6162f35e11b786
+      internalID: 4871841576352723822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 600
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab064165111f1d449b1b20d03a6b364d
+      internalID: -1456606613950693480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 600
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274009b18baf40f48a11a3707d8ff09e
+      internalID: -1151419047957462858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 598
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4a4e6033d2ad84fb701063df7fc42f
+      internalID: -8502076613155361978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_11
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 598
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a79a79593699646aecc972101452ef
+      internalID: -7718320291167396508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 348
+        width: 38
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8910c7afd0a1a1a41b312ee391a4ebda
+      internalID: -4315843302001833925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 348
+        width: 38
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbf45feab185d54fb4e803e75b2c91f
+      internalID: -3347795064037228201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 344
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde5deffb7d476243b7618dd084d9757
+      internalID: 380333316961591380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_15
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 344
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbf0293681ef6b44be564914840d65a
+      internalID: -9074246096318712505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male soldier left view walk cycle_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 88
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931b96019d5a11c46b423b01988d7303
+      internalID: 2721427221374751446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 184c7d31c7a4b4ff4b56231edff65670
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
