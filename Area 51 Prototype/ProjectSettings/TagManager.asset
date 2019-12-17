@@ -8,6 +8,7 @@ TagManager:
   - Ground
   - GUI
   - HUD
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -45,6 +46,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: New Layer
+  - name: Player
     uniqueID: 2395575543
     locked: 0

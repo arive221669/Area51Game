@@ -4,15 +4,37 @@ using UnityEngine;
 
 public class EnemyBehavior : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+  public int health = 100;
+  public GameObject deathEffect;
+  public GameObject Enemy;
+  public GameObject Player;
+
+public void TakeDamage(int damage){
+    health -= damage;
+
+    if (health <= 0){
+      Die();
+    }
+  }
+
+    void Die(){
+      Instantiate(deathEffect, transform.position, Quaternion.identity);
+      Destroy(gameObject);
     }
 
-    // Update is called once per frame
-    void Update()
+    //Should kill Player
+    public void OnCollisionEnter2D(Collision2D collision) //
     {
-        
+        if (Enemy.gameObject.tag == "Enemy")
+        {
+          Debug.Log("poatoes");
+            Destroy(gameObject);
+        }
+        if (Player.gameObject.tag == "Player")
+        {
+          Debug.Log("tomatoes");
+            //collision.gameObject.GetComponent<PlayerStats>().PlayerKilled();
+            Destroy(gameObject);
+        }
     }
 }
