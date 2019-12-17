@@ -1,42 +1,41 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Move2D : MonoBehaviour
 {
     //public float jumpVelocity = 50f;
+    
+      private float movementInputDirection;
+      private float movementInputDirectionUp;
+      private bool isFacingRight = true;
+      public bool isFacingUp = true;
 
-  public int health = 100;
+      public float moveSpeed;
+      private bool isMoving;
+      private bool isShooting;
+      private bool isKnifeState;
+      private bool isKnifeAttacking;
+      private bool isKnifeMoving;
+      private bool isShotgunState;
+      private bool isShotgunShooting;
+      private bool isShotgunMoving;
+      //public bool isGrounded = false;
 
-
-  private float movementInputDirection;
-  private float movementInputDirectionUp;
-  private bool isFacingRight = true;
-  public bool isFacingUp = true;
-
-  public float moveSpeed;
-  private bool isMoving;
-  private bool isShooting;
-  private bool isKnifeState;
-  private bool isKnifeAttacking;
-  private bool isKnifeMoving;
-  private bool isShotgunState;
-  private bool isShotgunShooting;
-  private bool isShotgunMoving;
-  //public bool isGrounded = false;
-
-  private Rigidbody2D rb;
-  private Animator anim;
+      private Rigidbody2D rb;
+      private Animator anim;
 
 
     // Start is called before the first frame update
     void Start(){
-      rb = GetComponent<Rigidbody2D>();
-      anim = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update(){
+
         CheckInput();
         CheckInputUp();
         CheckMovementDirection();
@@ -47,7 +46,7 @@ public class Move2D : MonoBehaviour
         // CheckCrouch();
         // CheckAttackRun();
         State1();
-      }
+    }
 
       private void UpdateAnimations(){
           // State 1
@@ -164,4 +163,5 @@ public class Move2D : MonoBehaviour
           //isFacingUp = !isFacingUp;
           transform.Rotate(0.0f, 180.0f, 0.0f);
       }
-    }
+
+}

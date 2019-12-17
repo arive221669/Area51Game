@@ -1,25 +1,43 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class EnemyBehavior : MonoBehaviour
 {
-  public int health = 100;
-  public GameObject deathEffect;
-  public GameObject Enemy;
-  public GameObject Player;
+    Image healthBar;
+    public float maxHealth = 100f;
+    public static float health;
+    public GameObject deathEffect;
+    public GameObject Enemy;
+    public GameObject Player;
 
-public void TakeDamage(int damage){
-    health -= damage;
 
-    if (health <= 0){
-      Die();
+    private void Start()
+    {
+        healthBar = GetComponent<Image>();
+        health = maxHealth;
     }
-  }
+    void Update()
+    {
+        healthBar.fillAmount = health / maxHealth;
+        Debug.Log(health);
+    }
 
-    void Die(){
-      Instantiate(deathEffect, transform.position, Quaternion.identity);
-      Destroy(gameObject);
+    public void TakeDamage(int damage)
+    {
+        health -= damage;
+
+        if (health <= 0)
+        {
+            Die();
+        }
+    }
+
+    void Die()
+    {
+        Instantiate(deathEffect, transform.position, Quaternion.identity);
+        Destroy(gameObject);
     }
 
     //Should kill Player
@@ -27,14 +45,13 @@ public void TakeDamage(int damage){
     {
         if (Enemy.gameObject.tag == "Enemy")
         {
-          Debug.Log("poatoes");
-            Destroy(gameObject);
+            Debug.Log("poatoes");
         }
         if (Player.gameObject.tag == "Player")
         {
-          Debug.Log("tomatoes");
+            Debug.Log("tomatoes");
             //collision.gameObject.GetComponent<PlayerStats>().PlayerKilled();
-            Destroy(gameObject);
+
         }
     }
 }
